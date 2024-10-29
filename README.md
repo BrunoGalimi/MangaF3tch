@@ -8,3 +8,8 @@ To install the dependencies, run:
 
 ```bash
 poetry install
+```
+
+## To use:
+
+In bash:
