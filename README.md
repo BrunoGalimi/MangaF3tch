@@ -12,4 +12,5 @@ poetry install
 
 ## To use:
 
-In bash:
+```bash
+poetry run mangaf3tch [command]
