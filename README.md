@@ -1,6 +1,6 @@
 # MangaF3tch
 
-A CLI tool to download and convert your favorite manga chapters into PDFs.
+A CLI tool to download and convert manga chapters or entire volume into PDFs.
 
 ## Installation
 
