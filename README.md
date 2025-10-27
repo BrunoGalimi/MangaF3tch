@@ -17,7 +17,7 @@ poetry run mangaf3tch [command]
 ```
 
 -------
-This code was made for the only demonstration and academic purpose of a practice called fetching. The site from which fetching is done is called mangaworld, an illegal site that has stolen and still steals scans to make public by making money with advertisements while not making money for sons of bitches by reading the scans they made public anyway. This fetching allows you to evade ads. 
+This code was created exclusively for demonstration and academic purposes for a practice called fetching. The site fetching is done from is called mangaworld, an illegal site that has stolen and continues to steal scans from sites committed to the legal and proper dissemination of works that would otherwise not have reached Italy. This tool allows you to bypass the site's ads, bypassing the assholes.
 -------
 Attention! Using this code except for study is not right and would be criminally punishable.
 ------
