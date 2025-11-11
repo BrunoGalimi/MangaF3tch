@@ -4,7 +4,14 @@ A CLI tool to download and convert manga chapters or entire volume into PDFs.
 
 ## Installation
 
-To install the dependencies, run:
+### To install poetry:
+
+#### Arch btw:
+```bash
+sudo pacman -S python-poetry
+```
+
+### To install the dependencies with poetry:
 
 ```bash
 poetry install
